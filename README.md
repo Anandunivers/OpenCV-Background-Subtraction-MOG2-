@@ -4,7 +4,7 @@
 project/
 │
 ├── bg_sub.py
-├── Your file 
+├── Your file /Video file 
 ├── README.md
 └── output/
 ```
